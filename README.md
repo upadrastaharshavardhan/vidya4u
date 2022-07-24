@@ -1,5 +1,5 @@
-# Studbud - Website
-Studbud is the one stop learning webpage for all the content required by an engineering graduate.
+# vidya4u - Website
+vidya4u is the one stop learning webpage for all the content required by an engineering graduate.
 
 
 ### Features
@@ -19,7 +19,7 @@ Studbud is the one stop learning webpage for all the content required by an engi
 	- PTE (Pearson Test of English)
 
 ### Screenshot
-![Home Page](/screenshot/Studbud1.JPG)
-![Engineering](/screenshot/Studbud2.JPG)
-![Higher Education](/screenshot/Studbud3.JPG)
-![English Test](/screenshot/Studbud4.JPG)
+![Home Page](/screenshot/vidya4u1.JPG)
+![Engineering](/screenshot/vidya4u2.JPG)
+![Higher Education](/screenshot/vidya4u3.JPG)
+![English Test](/screenshot/vidya4u4.JPG)
