@@ -17,9 +17,3 @@ vidya4u is the one stop learning webpage for all the content required by an engi
 	- TOEFL (Test of English as a Foreign Language)
 	- IELTS (International English Language Testing System)
 	- PTE (Pearson Test of English)
-
-### Screenshot
-![Home Page](/screenshot/vidya4u1.JPG)
-![Engineering](/screenshot/vidya4u2.JPG)
-![Higher Education](/screenshot/vidya4u3.JPG)
-![English Test](/screenshot/vidya4u4.JPG)
